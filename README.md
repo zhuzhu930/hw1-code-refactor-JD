@@ -43,7 +43,7 @@ In CSS, I've made the following changes:
 
 # 4. Adding comments in HTML for reviewers.
 
-- I've added some comments in the HTML to clarify my changes.
+- I've added some comments in the HTML and CSS to clarify my changes.
 - I've commented out the redundant codes so CSS won't run it, still leaving the record for the reviewers.
 
 # 4. Write the README.md, to summarize what I've done.
@@ -55,4 +55,4 @@ In CSS, I've made the following changes:
 
 # In conclusion:
 
-I really enjoyed this homework, as it helps me read codes more carefully, think about the ways to improve them. The end result is a more accessible webpage with cleaner codes.
+I really enjoyed this homework, as it helped me read codes more carefully, thinking about the ways to improve them. The end result is a more accessible webpage with cleaner codes.
