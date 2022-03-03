@@ -25,9 +25,11 @@ In HTML, I've made the following changes:
 - changing the "div" with id="hero" into a more proper "img" tag with source link. Adding "alt" attribute to the image.
 - According to the w3schools, the typical layout of a webpage is:
   ![](./assets/images/webpagelayout.png)
+
   So I made the left part into a section, by using "section" tag. In the first "div", I need to add an "id" for "search-engine-optimization" so it links to the navigation menu.
   Deleting the unnecessary "class" on the "section" tag.
   Adding "alt" attributes to all images.
+
 - Based on the layout, I've made the right part into a side bar by using "aside" tag. Deleting the unnecessary "class" on the "aside" tag. Adding "alt" attributes to all images.
 - Based on the layout, I've changed the last "div" into "footer" since this part serves as a footer of the page. Deleting the unnecessary "class" on the "footer" tag.
 
