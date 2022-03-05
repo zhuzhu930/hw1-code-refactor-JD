@@ -46,9 +46,9 @@ In CSS, I've made the following changes:
 - I've added some comments in the HTML and CSS to clarify my changes.
 - I've commented out the redundant codes so CSS won't run it, still leaving the record for the reviewers.
 
-# 4. Write the README.md, to summarize what I've done.
+# 5. Write the README.md, to summarize what I've done.
 
-# 5. How I did my research.
+# 6. How I did my research.
 
 - I did my research on w3schools, MDN web docs to understand the functionalities of tags.
 - I also found that by using "inspect" feature on a webpage can help me get what I want quicker.
