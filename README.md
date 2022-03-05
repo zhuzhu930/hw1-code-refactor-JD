@@ -2,7 +2,7 @@
 
 By Jessie Doherty
 
-## URL:
+## Homework URLs:
 
 - Repo: https://github.com/zhuzhu930/hw1-code-refactor-JD
 - Github page: https://zhuzhu930.github.io/hw1-code-refactor-JD/
